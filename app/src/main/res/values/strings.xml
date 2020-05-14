@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Hi Natalie</string>
+    <string name="second_fragment_label">Hi Nathan</string>
+    <string name="previous">Natalie</string>
+
+    <string name="natalie_loves">Natalie loves...</string>
+    <string name="nathan">Nathan loves...</string>
+    <string name="next">Nathan</string>
+</resources>
